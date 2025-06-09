@@ -85,11 +85,13 @@
 ## 🎨 Custom SVG Highlight
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlishaVyas/AlishaVyas/main/api.svg" width="150" />
+  <img src="https://raw.githubusercontent.com/AlishaVyas/AlishaVyas/main/api.svg" width="80%" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AlishaVyas&icon=0&color=6" alt="visitor badge"/>
-</p>
+##<p align="center">
+##  <img src="https://visitcount.itsvg.in/api?id=AlishaVyas&icon=1&color=2" alt="visitor badge"/>
+##</p>
+
+
