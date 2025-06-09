@@ -85,7 +85,7 @@
 ## 🎨 Custom SVG Highlight
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlishaVyas/AlishaVyas/main/assets/api.svg" width="150" />
+  <img src="https://raw.githubusercontent.com/AlishaVyas/AlishaVyas/main/api.svg" width="150" />
 </p>
 
 ---
