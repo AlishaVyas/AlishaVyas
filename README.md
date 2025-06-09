@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+Peps%F0%9F%91%8B;✨+WELCOME+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%91%8B;✨+WELCOME+✨" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" alt="Header Banner" width="100%" />
 </p>
----
+
 
 ## 💫 About Me
 
@@ -22,14 +22,13 @@
 - 🧠 Keen to work on **full-stack AI projects and API design**.
 - 🛠️ Ask me about **debugging and optimizing web applications**.
 
----
-
+<!-- 
 ## 🧰 My Developer Toolkit
 
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="70" />
-  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70" />
+ <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="70" /> 
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="70" />
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70" />
@@ -38,7 +37,8 @@
 > and more: React, Node.js, MongoDB, TypeScript, Flask, Firebase, Docker, and more...
 
 ---
-
+-->
+<!--
 ## 🚀 Featured Projects
 
 | Project | Tech Stack | Description | Graphic |
@@ -48,8 +48,7 @@
 | 📦 **Upload Service** | Node.js, TypeScript, Redis, S3 | A scalable file uploader using Express + AWS. | <img src="https://raw.githubusercontent.com/AlishaVyas/your-repo-name/main/assets/api.svg" width="60" /> |
 
 > Replace `your-repo-name` with the actual repo name where you store the `api.svg`
-
----
+-->
 
 ## 📊 GitHub Stats
 
@@ -64,7 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaVyas&theme=transparent&hide_border=true&layout=compact" />
 </p>
 
----
 
 ## 🌐 Let's Connect
 
@@ -80,15 +78,13 @@
   </a>
 </p>
 
----
 
-## 🎨 Custom SVG Highlight
+<!-- ## 🎨 Custom SVG Highlight -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlishaVyas/AlishaVyas/main/api.svg" width="80%" />
 </p>
 
----
 <!--
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=AlishaVyas&icon=1&color=2" alt="visitor badge"/>
